@@ -1,0 +1,112 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Launch Ejercicio6",
+			"request": "launch",
+			"mainClass": "level_2.Ejercicio6",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio5",
+			"request": "launch",
+			"mainClass": "level_2.Ejercicio5",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio7",
+			"request": "launch",
+			"mainClass": "level_2.Ejercicio7",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio9",
+			"request": "launch",
+			"mainClass": "level_1.Ejercicio9",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio7",
+			"request": "launch",
+			"mainClass": "level_1.Ejercicio7",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio3",
+			"request": "launch",
+			"mainClass": "level_2.Ejercicio3",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio4",
+			"request": "launch",
+			"mainClass": "level_2.Ejercicio4",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio2",
+			"request": "launch",
+			"mainClass": "level_2.Ejercicio2",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio4",
+			"request": "launch",
+			"mainClass": "level_1.Ejercicio4",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio1L2",
+			"request": "launch",
+			"mainClass": "level_2.Ejercicio1L2",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio1",
+			"request": "launch",
+			"mainClass": "level_2.Ejercicio1",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio8",
+			"request": "launch",
+			"mainClass": "level_1.Ejercicio8",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio1",
+			"request": "launch",
+			"mainClass": "level_1.Ejercicio1",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		},
+		{
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Launch Ejercicio3",
+			"request": "launch",
+			"mainClass": "level_1.Ejercicio3",
+			"projectName": "JAVA_Informatorio_2021_62982fe5"
+		}
+	]
+}
