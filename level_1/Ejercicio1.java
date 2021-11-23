@@ -9,7 +9,5 @@ public class Ejercicio1 { //como clase pública podrá llamarse desde cualquier 
 	String nombre = scan.nextLine(); // nombre = variable que recibira y almacena el valor cargado por consola, mediante el método scan.
 	scan.close(); //método de la clase Scanner que cierra la ejecución y permite la creación 'segura' y compacta del objeto de la clase.
 	System.out.println("HOLA " + nombre);
-
-	}	
-
+	}
  }
